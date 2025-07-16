@@ -184,7 +184,7 @@ if [[ "$role_choice" == "1" ]]; then
         echo "IRAN Server setup complete."
         echo -e "####################################"
         echo -e "# Your IPv4 :                      #"
-        echo -e "#  30.0.0.1                     #"
+        echo -e "#  30.0.0.1                        #"
         echo -e "####################################"
     fi
 
